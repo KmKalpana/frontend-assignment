@@ -14,7 +14,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 `git clone https://github.com/KmKalpana/frontend-assignment/.git`
 
-`cd your-react-project`
+`cd frontend-assignment`
 
 `npm install`
 
